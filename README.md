@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alvaromedia
+- 👋 Hi, I’m Alvaro
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 
