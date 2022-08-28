@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alvaro. A web developer currently studying and applying the below listed ->
+- 👋 Hi, I’m Alvaro. A web developer currently studying and working with the below listed ->
 
 #  languages, tools and technologies
 
