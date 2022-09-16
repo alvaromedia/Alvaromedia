@@ -51,15 +51,6 @@
     </td>
     <td align="center" height="120" width="120">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg"
-        width="50"
-        height="50"
-        alt="Redux"
-      />
-      <br /><strong>Bulma</strong>
-    </td>
-    <td align="center" height="120" width="120">
-      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
         width="50"
         height="50"
@@ -123,6 +114,8 @@
       />
       <br /><strong>Git</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center" height="120" width="120">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
@@ -132,8 +125,6 @@
       />
       <br /><strong>Npm</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" height="120" width="120">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
@@ -151,15 +142,5 @@
         alt="Jest"
       />
       <br /><strong>TypeScript</strong>
-    </td>
-        <td align="center" height="120" width="120">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
-        width="50"
-        height="50"
-        alt="Jest"
-      />
-      <br /><strong>Angular</strong>
-    </td>
-    </tr>
+ 
 </table>
