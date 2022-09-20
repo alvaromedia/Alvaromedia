@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Alvaro. A web developer currently studying and working with the below listed ->
+👋 Hi, I’m Alvaro. A web developer currently studying and working with the below listed 
 
-#  languages, tools and technologies
+#  Languages, tools and technologies
 
 <table>
   <tr>
@@ -42,26 +42,6 @@
     </td>
     <td align="center" height="120" width="120">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
-        width="50"
-        height="50"
-        alt="Redux"
-      />
-      <br /><strong>Redux</strong>
-    </td>
-    <td align="center" height="120" width="120">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
-        width="50"
-        height="50"
-        alt="Bootstrap"
-      />
-      <br /><strong>Bootstrap</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" height="120" width="120">
-      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
         width="50"
         height="50"
@@ -78,6 +58,9 @@
       />
       <br /><strong>Express</strong>
     </td>
+    
+  </tr>
+  <tr>
     <td align="center" height="120" width="120">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
@@ -114,8 +97,6 @@
       />
       <br /><strong>Git</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" height="120" width="120">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
@@ -125,14 +106,6 @@
       />
       <br /><strong>Npm</strong>
     </td>
-    <td align="center" height="120" width="120">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
-        width="50"
-        height="50"
-        alt="Jest"
-      />
-      <br /><strong>Jest</strong>
     </td>
         <td align="center" height="120" width="120">
       <img
