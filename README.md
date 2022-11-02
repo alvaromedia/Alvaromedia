@@ -97,15 +97,6 @@
       />
       <br /><strong>Git</strong>
     </td>
-    <td align="center" height="120" width="120">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
-        width="50"
-        height="50"
-        alt="Npm"
-      />
-      <br /><strong>Npm</strong>
-    </td>
     </td>
         <td align="center" height="120" width="120">
       <img
